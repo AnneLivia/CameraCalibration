@@ -11,4 +11,5 @@ In order to use this code and calibrate your came, it's necessary to have a ches
     2. If there are no images in the chessboard folder yet, the webcam will be initialized to capture images that can be successfully used. Press (s) to save the images and (q) to quit when you finish capturing them.
     3. When there are images in the chessboard folder, the program will perform camera calibration to obtain all the calibration data, which includes the Camera Matrix, Distortion Coefficients, Rotation Vectors, and Translation Vectors. These values will be saved in the calibData folder with the .npz extension.
 
-## Example Image of the process to find the Chessboard Corners
+## Example image showcasing Chessboard Corners detection process
+<img src="https://github.com/AnneLivia/CameraCalibration/assets/31932673/f380b182-fdd7-457a-9775-679df6f19952" alt="chessboard corners detection process" width="75%"/>
